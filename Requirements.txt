@@ -1,0 +1,8 @@
+### Dependencies for project			   		###
+###                                             ###
+### To install, run:                            ###
+###      $ pip install -r requirements.txt      ###
+### Or:                                         ###
+###    connect requirements file to pycharm     ###
+###    using external tools in settings         ###
+###################################################
