@@ -6,3 +6,5 @@
 ###    connect requirements file to pycharm     ###
 ###    using external tools in settings         ###
 ###################################################
+
+pathlib==1.0.1
