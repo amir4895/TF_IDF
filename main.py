@@ -21,7 +21,7 @@ def main():
     c = Counter()
     for file_word_count in file_collector.mapper.values():
         c += file_word_count.words_counter
-    print(f"The {args.n_max}  most common words are {c.most_common(args.n_max)} ")
+    print(f"The {args.n_max}  most common words are {c.most_common(args.n_max)}")
 
 
 if __name__ == "__main__":
