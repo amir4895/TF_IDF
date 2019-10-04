@@ -5,18 +5,14 @@ from os import path as os_path
 
 class FileCollector:
 
-    def __init__(self, paths):
+    def __init__(self, paths: list, logger):
         """
         :param paths: list of paths to txt files and or directories
         """
         self.paths = paths
         self.paths_as_set = set()
-        self.invalid_paths = []
         self.mapper = {}
-        self.populate_mapper()
-
-    def validate_input(self):
-        pass
+        self.logger = logger
 
     def populate_mapper(self):
         """
@@ -29,5 +25,6 @@ class FileCollector:
                 if os_path.isdir(arg_path):
                     for file_path in Path(arg_path).glob('**/*.txt'):
                         self.paths_as_set.add(file_path)
+
         for path in self.paths_as_set:
-            self.mapper[path._str] = FileWordCounter(file_path=path)
+            self.mapper[FileWordCounter(file_path=path, logger=self.logger)] = True
