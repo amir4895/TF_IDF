@@ -368,7 +368,7 @@ from that of the hosteller to that of the Manager -- I got the hang of the job,
 and even began to feel that perhaps this job provided an interesting new
 slant on the Youth Hostels and the way that they operate. Somewhat to my
 surprise, I found myself worrying over the future of the hostel, even though
-my own time there was likely to be short. 
+my own time there was likely to be short.
 
     All things end. At the end of July, the new permanent manager arrived
 and I had to go. But where? I liked the life; I didn't want to stop being a
@@ -515,7 +515,7 @@ to resemble a leprechaun. We had a number of long debates during his
 various visits, covering a wide range of topics. Later on he came by less
 often; he had a project of some sort going on up in Northland that was
 taking up a lot of his time. I never found out what it was.
-    
+
     This pattern of repeated visits lasting several days was quite common for
 Te Aroha's visitors. The average stay was about two days, but this figure
 includes cases such as half a dozen people in a car stopping for the night,
@@ -595,23 +595,23 @@ change the strategic situation very quickly!
 
               3
 
-            ÛÛ ÛÛ
-            ÛÛ ÛÛ
- 
-            ÛÛ ÛÛ
-            ÛÛ ÛÛ
-   ÜÜÜ ÜÜÜ         ÜÜÜ ÜÜÜ
-   ÛÛÛ ÛÛÛ         ÛÛÛ ÛÛÛ
-2                           4
-   ÛÛÛ ÛÛÛ         ÛÛÛ ÛÛÛ
-   ßßß ßßß         ßßß ßßß
+            ï¿½ï¿½ ï¿½ï¿½
+            ï¿½ï¿½ ï¿½ï¿½
 
-            ÛÛ ÛÛ
-            ÛÛ ÛÛ          ÜÜÜ
-                     stack ÛÛÛ
-            ÛÛ ÛÛ
-            ÛÛ ÛÛ  discard ÛÛÛ
-                           ßßß
+            ï¿½ï¿½ ï¿½ï¿½
+            ï¿½ï¿½ ï¿½ï¿½
+   ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½         ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+   ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½         ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+2                           4
+   ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½         ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+   ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½         ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+
+            ï¿½ï¿½ ï¿½ï¿½
+            ï¿½ï¿½ ï¿½ï¿½          ï¿½ï¿½ï¿½
+                     stack ï¿½ï¿½ï¿½
+            ï¿½ï¿½ ï¿½ï¿½
+            ï¿½ï¿½ ï¿½ï¿½  discard ï¿½ï¿½ï¿½
+                           ï¿½ï¿½ï¿½
               1
 
 In the above diagram, Player 1 deals. After the deal but before play begins,
@@ -747,7 +747,7 @@ variety of the area.
 The Easter Comet:
 
 The cold wind blew up the mountainside and rattled the loose top of the
-billy. Birgit tapped the lid to reseat it. Fran‡ois measured instant coffee into
+billy. Birgit tapped the lid to reseat it. Franï¿½ois measured instant coffee into
 the cups. I lay on my back nearby, peering up through Dannie's binoculars
 in search of the elusive fuzzy Comet.
 
@@ -769,7 +769,7 @@ overflow accommodation in the town in case more people turned up than
 could fit in the hostel. I bought enough food for a small army.
 
     In the event, there were never more than eight people staying at the hostel
-on any given day over the weekend. They were: Birgit and Fran‡ois
+on any given day over the weekend. They were: Birgit and Franï¿½ois
 (Canada), Margaret and Michael and Andrew (US), Derek (England), Ina
 (Germany), Joerg and Madelene and Marilene (Australia). (That's ten
 people, but Madelene and Marilene stayed only one night.) However, two
@@ -1139,7 +1139,7 @@ north of Coromandel, I faced an inconvenient delay and a humiliating
 dependence on hitching back to Coromandel for a new one. (Why I didn't
 just buy a new one before going north, I can't remember. I wasn't
 particularly short of cash, as I proved later on when the back tire did die
-under me. It's a mystery to me today.) So I decided to go to Whitianga. 
+under me. It's a mystery to me today.) So I decided to go to Whitianga.
 Hearing that there were extensive patches of gravel on Highway 25 between
 Coromandel and Whitianga, I said `whatthehell' and took the scenic route -
 - the secondary road which follows the courses of the Waiau (Wye-ow) and
@@ -1675,7 +1675,7 @@ End Interlude===============================
                                                They leave.
                                       All is quiet ... motionless.'
 
-                                                          -- `Sarah P.'  
+                                                          -- `Sarah P.'
                             ________________________________________________
 
 
@@ -1859,7 +1859,7 @@ from Tauranga to Rotorua.
     The first part was relatively easy -- cross the small peninsula that central
 Tauranga squats on, cross the harbour via a railbridge (shorter than using
 the main road), up a connecting road to Highway 2, then along to the
-Rotorua turnoff at Highway 33. But then things turned difficult. 
+Rotorua turnoff at Highway 33. But then things turned difficult.
 
     I found myself dropping gears for no obvious reason. I was used enough
 to cycle-touring by now that I could judge my progress fairly well even
@@ -1952,7 +1952,7 @@ ________________________________________________
                                            Only in dying life
                                         Bright the hawk's flight
                                            On the empty sky --
-                                                          (Ursula LeGuin)  
+                                                          (Ursula LeGuin)
 
   -- Christa (Denmark)' (Te Aroha V. B.)
 ________________________________________________
@@ -2216,8 +2216,8 @@ ________________________________________________
   item with the World Cup at the moment), even
   sheep outside the bathroom windows.
 
--- Kevin (Australia) 3/6/86'  
-(Te Aroha Visitor's Book)  
+-- Kevin (Australia) 3/6/86'
+(Te Aroha Visitor's Book)
 ________________________________________________
 
 
@@ -2285,7 +2285,7 @@ been slashed, maintenance programs on smaller hostels held up, and fund-
 raising ventures had been embarked-on.
 
     Te Aroha really couldn't afford a permanent manager's salary, even a
-salary as small as mine. I did my best to push the usage of the hostel  up, 
+salary as small as mine. I did my best to push the usage of the hostel  up,
 but  even  at 100% capacity all the time, the hostel would lose money. Yet
 it was accepted as a legal requirement that the hostel could not operate
 without a resident manager. By mid-1986, however, ways had been found
@@ -2318,7 +2318,7 @@ and I acquired a cheap air ticket to Australia. On the 19th of September
 1986 I again boarded a plane to Australia. How this came about, what I
 planned to do there, and what actually happened between then and 1st
 January 1987 is the subject for `History' Part Six. It will bring the tale up to
-the publication of SECANT 1, which, as endings, beginnings, and returns go, 
+the publication of SECANT 1, which, as endings, beginnings, and returns go,
 has a nice Ouroboros ring to it. See you then.
                                                   -- Greg Hills, 1/89
 
