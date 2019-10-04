@@ -1,8 +1,6 @@
 import argparse
-from files_collector import FileCollector
-from concurrent.futures import ProcessPoolExecutor
-from collections import Counter
 from validation_args_functions import check_not_neg, validate_paths_arg
+from tf_idf import TFIDF
 
 
 def main():
@@ -19,20 +17,10 @@ def main():
 
     args = parser.parse_args()
 
-    file_collector = FileCollector(args.paths)
-
-    with ProcessPoolExecutor() as executor:
-        for file_word_count in file_collector.mapper.values():
-            executor.submit(file_word_count.analyze_file)
-
-    c = Counter()
-    for file_word_count in file_collector.mapper.values():
-        c += file_word_count.words_counter
-
-    print(f"Maximum {args.max_words} words:")
-    most_common = c.most_common(args.max_words)
-    for common in most_common:
-        print(f"Word ‘{common[0]}’ occurred {common[1]} times")
+    tfidf_instance = TFIDF(paths=args.paths)
+    tfidf_instance.parse_files()
+    tfidf_instance.join_counters()
+    tfidf_instance.get_n_max_common(args.max_words)
 
 
 if __name__ == "__main__":
