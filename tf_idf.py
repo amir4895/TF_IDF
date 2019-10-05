@@ -39,6 +39,13 @@ class TFIDF:
         :param max_words: number of common words to print and return
         :return: list of tuples (str: counter)
         """
+        error = ""
+        if max_words <= 0:
+            error = "Max num has to be positive"
+        if max_words > len(self.global_counter):
+            error = f"Max num has to be smaller or equal to number of words in corpus - {len(self.global_counter)} "
+        if error:
+            raise ValueError(error)
         print(f"Maximum {max_words} words:")
         most_common = self.global_counter.most_common(max_words)
         for common in most_common:
