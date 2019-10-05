@@ -1,5 +1,5 @@
 from pathlib import Path
-from file_word_counter import FileWordCounter
+from .file_word_counter import FileWordCounter
 from os import path as os_path
 
 

@@ -1,6 +1,6 @@
 import pytest
 
-from tf_idf import TFIDF
+from tf_idf.tf_idf import TFIDF
 from functools import lru_cache
 from typing import List, Tuple
 from .test_params import generic_tests_params

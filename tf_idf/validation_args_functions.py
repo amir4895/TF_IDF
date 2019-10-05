@@ -1,6 +1,6 @@
 import argparse
 from os import path
-from tf_idf_logger import LOG
+from tf_idf.tf_idf_logger import LOG
 
 
 def check_not_neg(value):

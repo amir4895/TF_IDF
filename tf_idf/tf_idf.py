@@ -1,7 +1,7 @@
-from files_collector import FileCollector
+from tf_idf.files_collector import FileCollector
 from concurrent.futures import ProcessPoolExecutor
 from collections import Counter
-from tf_idf_logger import LOG
+from .tf_idf_logger import LOG
 
 
 class TFIDF:

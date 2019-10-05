@@ -1,6 +1,6 @@
 import argparse
-from validation_args_functions import check_not_neg, validate_paths_arg
-from tf_idf import TFIDF
+from tf_idf.validation_args_functions import check_not_neg, validate_paths_arg
+from tf_idf.tf_idf import TFIDF
 
 
 def main():
