@@ -1,6 +1,5 @@
 import pytest
 
-
 def test_input(tfidf_instance):
     with pytest.raises(ValueError):
         tfidf_instance.get_n_max_common(-1)
