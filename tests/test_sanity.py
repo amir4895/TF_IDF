@@ -1,4 +1,4 @@
-from . test_params import generic_tests_params
+from tests.test_params import generic_tests_params
 
 
 def test_sanity(tfidf_instance):
