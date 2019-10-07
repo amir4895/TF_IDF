@@ -2,6 +2,9 @@
 This is Python 3 project.
 please install/ define in IDE the requirements file.
 
+Within python REPL import nltk , nltk.download('stopwords')
+
+
 The following project include 4 Main folders:
 
 sources - Dataset of text files

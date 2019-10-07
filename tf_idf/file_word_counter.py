@@ -1,13 +1,15 @@
 from collections import Counter
-
+from nltk.corpus import stopwords
 
 class FileWordCounter:
+    stop_words = set(stopwords.words('english'))
 
     def __init__(self, file_path: str, logger):
         self.file_path = file_path
         self.words_counter = Counter()
         self.counter = 0
         self.logger = logger
+
 
     def analyze_file(self):
         self.logger.info(f"Starting analyzing file:{self.file_path}")
@@ -17,8 +19,10 @@ class FileWordCounter:
                 line = f_h.readline()
                 while line:
                     line = line.strip().split()
-                    self.words_counter.update(line)
-                    self.counter += len(line)
+                    filtered_line = [w for w in line if not w in self.stop_words]
+
+                    self.words_counter.update(filtered_line)
+                    self.counter += len(filtered_line)
                     line = f_h.readline()
                     line_c += 1
         except UnicodeDecodeError as e:

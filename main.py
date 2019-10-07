@@ -6,7 +6,7 @@ from tf_idf.tf_idf import TFIDF
 def main():
 
     parser = argparse.ArgumentParser(description='TF_IDF arg parser.', add_help=False)
-    parser.add_argument('--max­words', dest="max_words", type=check_not_neg, action="store",
+    parser.add_argument('--max-words', dest="max_words", type=check_not_neg, action="store",
                         help='N words with maximal of occurrences', required=True)
 
     parser.add_argument(dest="paths", nargs='+',  type=validate_paths_arg,
